@@ -1,0 +1,4 @@
+XE_GUEST_UTILITIES_PKG_FILE_x86_64='xe-guest-utilities-7.30.0-2.x86_64.rpm '
+XE_GUEST_UTILITIES_PKG_FILE_LEGACY_x86_64='xe-guest-utilities-7.30.0-2.legacy.x86_64.rpm '
+XE_GUEST_UTILITIES_PKG_FILE_i386='xe-guest-utilities-7.30.0-2.i386.rpm '
+XE_GUEST_UTILITIES_PKG_FILE_LEGACY_i386='xe-guest-utilities-7.30.0-2.legacy.i386.rpm '
